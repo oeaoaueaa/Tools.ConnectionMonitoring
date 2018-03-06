@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Connection Monitoring</id>
+    <version>$version$</version>
+    <authors>oeaoaueaa</authors>
+    <owners></owners>
+    <licenseUrl>https://github.com/oeaoaueaa/Tools.ConnectionMonitoring</licenseUrl>
+    <projectUrl>https://github.com/oeaoaueaa/Tools.ConnectionMonitoring</projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Connection Monitoring</description>
+    <copyright>Copyright 2018</copyright>
+  </metadata>
+  <files>
+    <file src="bin\Release\**\*.*" exclude="**\*.xml" />
+  </files>
+</package>
